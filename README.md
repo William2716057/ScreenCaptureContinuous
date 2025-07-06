@@ -31,7 +31,5 @@ To stop the script, press Ctrl + C.
 
 ### Warnings
 -This script overwrites screenshot.png every cycle. To save unique screenshots, you can modify the script to include timestamps.
-
-The script runs indefinitely unless manually stopped.
-
-On macOS or Linux, you might need to give screen recording permissions.
+-The script runs indefinitely unless manually stopped.
+-On macOS or Linux, you might need to give screen recording permissions.
